@@ -10,6 +10,7 @@ End-to-end AI and machine learning projects built by **Kevin.AP** — covering L
 | [langgraph-support-bot](./langgraph-support-bot) | Multi-agent support bot with intent classification, conditional routing, and human escalation | LangGraph · LangChain · OpenAI |
 | [react-agent](./react-agent) | ReAct agent with calculator, weather, and Wikipedia tools using reasoning + acting loop | LangGraph · LangChain · OpenAI |
 | [huggingface-fine-tuning](./huggingface-fine-tuning) | Fine-tune GPT-2 on AI Q&A data with HuggingFace Trainer and base vs fine-tuned comparison | HuggingFace · PyTorch · GPT-2 |
+| [multi-agent-research-system](./multi-agent-research-system) | Researcher, Writer, and Critic agents with revision loop for polished report generation | LangGraph · LangChain · OpenAI |
 
 ## Architecture Overview
 
