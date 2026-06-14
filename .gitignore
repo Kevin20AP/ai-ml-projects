@@ -6,3 +6,7 @@ chroma_db/
 *.log
 .venv/
 venv/
+fine_tuning/
+*.pt
+*.bin
+checkpoint-*/
