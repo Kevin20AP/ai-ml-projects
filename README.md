@@ -7,6 +7,7 @@ End-to-end AI and machine learning projects built by **Kevin.AP** — covering L
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [rag-hybrid-chatbot](./rag-hybrid-chatbot) | RAG chatbot with hybrid search (ChromaDB + BM25), multi-turn memory, and RAGAS evaluation | LangChain · OpenAI · ChromaDB · BM25 |
+| [langgraph-support-bot](./langgraph-support-bot) | Multi-agent support bot with intent classification, conditional routing, and human escalation | LangGraph · LangChain · OpenAI |
 
 ## Architecture Overview
 
