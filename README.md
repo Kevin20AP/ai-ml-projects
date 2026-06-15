@@ -11,6 +11,7 @@ End-to-end AI and machine learning projects built by **Kevin.AP** — covering L
 | [react-agent](./react-agent) | ReAct agent with calculator, weather, and Wikipedia tools using reasoning + acting loop | LangGraph · LangChain · OpenAI |
 | [huggingface-fine-tuning](./huggingface-fine-tuning) | Fine-tune GPT-2 on AI Q&A data with HuggingFace Trainer and base vs fine-tuned comparison | HuggingFace · PyTorch · GPT-2 |
 | [multi-agent-research-system](./multi-agent-research-system) | Researcher, Writer, and Critic agents with revision loop for polished report generation | LangGraph · LangChain · OpenAI |
+| [voice-assistant](./voice-assistant) | Hands-free voice assistant with Whisper STT, GPT-3.5, and gTTS speech output | Whisper · OpenAI · gTTS · Python |
 
 ## Architecture Overview
 
