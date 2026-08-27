@@ -1,6 +1,6 @@
 # AI / ML Projects
 
-End-to-end AI and machine learning projects built by **Kevin.AP** — covering LLM applications, RAG pipelines, and intelligent systems.
+End-to-end AI and machine learning projects built by **Kevin.AP** — covering LLM applications, RAG pipelines, computer vision, and intelligent systems.
 
 ## Projects
 
@@ -12,14 +12,17 @@ End-to-end AI and machine learning projects built by **Kevin.AP** — covering L
 | [huggingface-fine-tuning](./huggingface-fine-tuning) | Fine-tune GPT-2 on AI Q&A data with HuggingFace Trainer and base vs fine-tuned comparison | HuggingFace · PyTorch · GPT-2 |
 | [multi-agent-research-system](./multi-agent-research-system) | Researcher, Writer, and Critic agents with revision loop for polished report generation | LangGraph · LangChain · OpenAI |
 | [voice-assistant](./voice-assistant) | Hands-free voice assistant with Whisper STT, GPT-3.5, and gTTS speech output | Whisper · OpenAI · gTTS · Python |
+| [sensitive-data-detection](./sensitive-data-detection) | ML system to detect sensitive data exposure in images using CNN + OCR with web deployment | TensorFlow · Flask · Tesseract OCR |
+| [fake-job-prediction](./fake-job-prediction) | Classify job postings as real or fake using NLP and machine learning | Python · Scikit-learn · Jupyter |
 
 ## Architecture Overview
 
 ```
 Documents → Chunking → Embeddings + Keyword Index → Hybrid Retrieval → LLM Generation
+Images → CNN Classification + OCR Text Extraction → Sensitivity Detection
 ```
 
-Each project follows production-ready patterns with clear retrieval pipelines, context injection, and evaluation metrics.
+Each project follows production-ready patterns with clear pipelines, evaluation metrics, and deployable outputs.
 
 ## Author
 
